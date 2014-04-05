@@ -4,7 +4,7 @@ Donate link: http://philmcdonnell.com/donate
 Tags: amazon, rss, affiliate, links
 Requires at least: 3.0
 Tested up to: 3.8.1
-Stable tag: 1.1
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,6 +33,9 @@ New release so no questions yet.
 N/A
 
 == Changelog ==
+
+= 1.1.1 =
+* Fix a spelling mistake in readme file.
 
 = 1.1 =
 * First public release on WordPress.org.
