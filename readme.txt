@@ -14,7 +14,7 @@ Removes all links to Amazon.com in the RSS feed.
 
 Removes all links to Amazon.com in the RSS feed so you will be in compliance with their Affiliate TOS. According to Amazon you may not use their affiliate links in any email, rss feed, etc. All the original links will still appear within the normal blog post.
 
-*Special thanks to Grethcen Louise (gretchenlouise.com) for alpha/beta testing this for me.
+*Special thanks to Gretchen Louise (gretchenlouise.com) for alpha/beta testing this for me.
 
 == Installation ==
 
